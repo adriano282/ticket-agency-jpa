@@ -2,4 +2,6 @@
 *.war
 *.jar
 *.zip
+*/target/*
+*META-INF/persistence.xml
 
