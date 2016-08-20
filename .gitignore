@@ -1,7 +1,6 @@
-*.class
+l*.class
 *.war
 *.jar
 *.zip
 */target/*
-*META-INF/persistence.xml
 
